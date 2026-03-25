@@ -1,4 +1,5 @@
 Objective :
+       ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
      The aim of this project is to analyze bike sales data to uncover insights that can inform business decisions by identifying trends and patterns in the data.
 
